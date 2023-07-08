@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @captainwoody
 - 👀 I’m interested in ... Ocean sailing, tech, security, snow plowing :).  
 - 🌱 I’m currently learning ... Java, more security tech to offer clients.  
-- 💞️ I’m looking to collaborate on ... product improvement.  
+- 💞️ I’m looking to collaborate on ... general product improvement.  
 - 📫 How to reach me ... @gmail.com.  
 
 <!---

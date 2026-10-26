@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captainwoody
 - 👀 I’m interested in ... Ocean sailing, tech, security, snow plowing :).  
-- 🌱 I’m currently learning ... More code and more security tech to offer clients.  
+- 🌱 I’m currently learning ... More code and more security tech to offer clients. Graphene.
 - 💞️ I’m looking to collaborate on ... general product improvement.  
 - 📫 How to reach me ... msg here.
 
